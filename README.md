@@ -3,7 +3,7 @@
 <h3 align="center">A Normal Tech Enthusiast</h3>
 
 <p align="center">
-  Contact me: csmcx on Discord
+  Contact me: ceemeck on Discord
 </p>
 
 <!-- Boring Introduction -->
