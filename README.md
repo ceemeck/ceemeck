@@ -11,9 +11,9 @@
   I'm not really that good at coding but I'm good at web developement. I am a archiver as well and currently I'm mainly focusing on the Eaglercraft project, not that I do anything special, I just archive things mainly and I compile things.
 </p>
 
-<!-- Tech Stack -->
+<!-- Github Stats -->
 <p align="center">
-  <strong>Tech Stack:</strong> <p style="color: red;">JavaScript</p> <p>|</p> <p style="color: orange;">HTML</p> <p>|</p> <p style="color: cyan;">
+  <strong>Github Stats:</strong>
 </p>
 
 <!-- GitHub Stats -->
