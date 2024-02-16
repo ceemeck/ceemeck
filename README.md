@@ -18,7 +18,7 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&count_private=true&theme=dracula" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ceemeck&show_icons=true&count_private=true&theme=dracula" alt="GitHub Stats">
 </p>
 
 <!-- Recent Projects -->
