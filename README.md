@@ -24,7 +24,7 @@
 <!-- Recent Projects -->
 <h3 align="center">Recent Projects</h3>
 <ul>
-  <li>🚀 <a href="https://example.com">recent project placeholder</a> It's a placeholder right now but I'll eventually add a real project.</li>
+  <li>🚀 <a href="https://example.com">Project Placeholder</a> It's a placeholder right now but I'll eventually add a real project.</li>
 </ul>
 
 <!-- Fin -->
