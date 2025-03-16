@@ -1,4 +1,3 @@
-<!-- Basic Info -->
 <h1 align="center">ceemeck</h1>
 <h3 align="center">A Normal Tech Enthusiast</h3>
 
@@ -6,9 +5,11 @@
   Contact me: <strong>ceemeck</strong> on Discord</p>
 </p>
 
-<!-- Boring Introduction -->
 <p align="center">
   I'm not really that good at coding but I'm good at web developement. I am a archiver as well and currently I'm mainly focusing on the Eaglercraft project, not that I do anything special, I just archive things mainly and I compile things.
+</p>
+<p align="center">
+  Most of this readme was just to mess around with github's profile feature
 </p>
 
 <!-- Github Stats -->
