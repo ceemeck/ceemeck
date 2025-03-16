@@ -24,11 +24,11 @@
 <!-- Recent Projects -->
 <h3 align="center">Recent Projects</h3>
 <ul>
-  <li>🚀 <a href="https://example.com">Project Placeholder</a> It's a placeholder right now but I'll eventually add a real project.</li>
+  <li><a href="https://example.com">placeholder x1</a> placeholder x2</li>
 </ul>
 
 <!-- Fin -->
 <h3 align="center">Fin.</h3>
 <p align="center">
-  That's all, either check out my respiratories or leave.
+  That's all, either check out my repositories or leave.
 </p>
