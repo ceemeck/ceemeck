@@ -1,35 +1,26 @@
 <h1 align="center">ceemeck</h1>
-<h3 align="center">A Normal Tech Enthusiast</h3>
+<h3 align="center">Archivist</h3>
 
 <p align="center">
-  Contact me: <strong>ceemeck</strong> on Discord</p>
+  You can message me at <strong>ceemeck</strong> on Discord</p>
 </p>
 
 <p align="center">
-  I'm not really that good at coding but I'm good at web developement. I am a archiver as well and currently I'm mainly focusing on the Eaglercraft project, not that I do anything special, I just archive things mainly and I compile things.
+  I'm not really that good at coding but I'm good at web developement. I am an archiver as well and currently I'm mainly focusing on the Eaglercraft project.
 </p>
 <p align="center">
   Most of this readme was just to mess around with github's profile feature
 </p>
 
-<!-- Github Stats -->
 <p align="center">
   <strong>Github Stats:</strong>
 </p>
 
-<!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ceemeck&show_icons=true&count_private=true&theme=dracula" alt="GitHub Stats">
 </p>
 
-<!-- Recent Projects -->
-<h3 align="center">Recent Projects</h3>
-<ul>
-  <li><a href="https://example.com">placeholder x1</a> placeholder x2</li>
-</ul>
-
-<!-- Fin -->
 <h3 align="center">Fin.</h3>
 <p align="center">
-  That's all, either check out my repositories or leave.
+  That's all, either check out my repositories or wander elseware on the Wide World of Web.
 </p>
