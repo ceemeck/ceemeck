@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://dynamic-github-stats.vercel.app/api?username=ceemeck&show_icons=true&count_private=true&theme=dracula" alt="GitHub Stats">
+  <img src="https://dynamic-github-readme.vercel.app/api?username=ceemeck&theme=dracula" alt="GitHub Stats">
 </p>
 
 <p align="center">
